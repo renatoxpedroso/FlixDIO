@@ -16,7 +16,7 @@ namespace fnPostDataBase
         }
 
         [Function("movie")]
-        [CosmosDBOutput("%CosmoDBDatabaseName%", "movies", Connection = "CosmoDBConnection", CreateIfNotExists = true)]
+        [CosmosDBOutput("%CosmoDBDatabaseName%", "movies", Connection = "CosmoDBConnection", CreateIfNotExists = true   )]
         public async Task<object?> Run([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
         {
             _logger.LogInformation("C# HTTP trigger function processed a request.");

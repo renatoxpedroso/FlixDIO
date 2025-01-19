@@ -3,13 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDatStorage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E72B4FC5-A1D8-4CD4-AF01-7C50806DBBC4}|..\\fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\renat\\onedrive\\documentos\\renato\\flixdio\\fnpostdatabase\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB65DEE0-2B01-44D6-B1FC-2079215A57EC}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\renat\\onedrive\\documentos\\renato\\flixdio\\fnpostdatstorage\\fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB65DEE0-2B01-44D6-B1FC-2079215A57EC}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E72B4FC5-A1D8-4CD4-AF01-7C50806DBBC4}|..\\fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\renat\\onedrive\\documentos\\renato\\flixdio\\fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E72B4FC5-A1D8-4CD4-AF01-7C50806DBBC4}|..\\fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\renat\\onedrive\\documentos\\renato\\flixdio\\fnpostdatabase\\movierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB65DEE0-2B01-44D6-B1FC-2079215A57EC}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\renat\\onedrive\\documentos\\renato\\flixdio\\fnpostdatstorage\\fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB65DEE0-2B01-44D6-B1FC-2079215A57EC}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB65DEE0-2B01-44D6-B1FC-2079215A57EC}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\renat\\onedrive\\documentos\\renato\\flixdio\\fnpostdatstorage\\fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB65DEE0-2B01-44D6-B1FC-2079215A57EC}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,21 +25,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovieRequest.cs",
-              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDataBase\\MovieRequest.cs",
-              "RelativeDocumentMoniker": "..\\fnPostDataBase\\MovieRequest.cs",
-              "ToolTip": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDataBase\\MovieRequest.cs",
-              "RelativeToolTip": "..\\fnPostDataBase\\MovieRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:12:45.086Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,22 +35,48 @@
               "RelativeDocumentMoniker": "..\\fnPostDataBase\\local.settings.json",
               "ToolTip": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDataBase\\local.settings.json",
               "RelativeToolTip": "..\\fnPostDataBase\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T20:13:44.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDatStorage\\fnGetMovieDetail\\local.settings.json",
+              "RelativeDocumentMoniker": "fnGetMovieDetail\\local.settings.json",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDatStorage\\fnGetMovieDetail\\local.settings.json",
+              "RelativeToolTip": "fnGetMovieDetail\\local.settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-19T13:05:17.028Z",
+              "WhenOpened": "2025-01-19T20:11:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDatStorage\\fnGetMovieDetail\\Program.cs",
+              "RelativeDocumentMoniker": "fnGetMovieDetail\\Program.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDatStorage\\fnGetMovieDetail\\Program.cs",
+              "RelativeToolTip": "fnGetMovieDetail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:09:45.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDataBase\\Function1.cs",
-              "RelativeDocumentMoniker": "..\\fnPostDataBase\\Function1.cs",
-              "ToolTip": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDataBase\\Function1.cs",
-              "RelativeToolTip": "..\\fnPostDataBase\\Function1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDatStorage\\fnGetMovieDetail\\Function1.cs",
+              "RelativeDocumentMoniker": "fnGetMovieDetail\\Function1.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\FlixDIO\\fnPostDatStorage\\fnGetMovieDetail\\Function1.cs",
+              "RelativeToolTip": "fnGetMovieDetail\\Function1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:04:30.22Z",
+              "WhenOpened": "2025-01-19T20:07:51.076Z",
               "EditorCaption": ""
             }
           ]
